@@ -8,9 +8,9 @@ This project demonstrates how to use the Asynchronous Advantage Actor-Critic (A3
 
 ## Installation
 To run this project, you need to install the required packages. You can do this directly in your Jupyter Notebook or Colab environment.
-'''bash
+```bash
 !pip install gymnasium torch numpy matplotlib
-'''
+```
 
 ## Prerequisites
 - Python 3.6 or higher
