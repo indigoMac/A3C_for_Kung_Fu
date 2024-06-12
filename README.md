@@ -1,4 +1,4 @@
-# A3C for Kung Fu
+# Asynchronous Advantage Actor-Critic for Kung Fu
 This project demonstrates how to use the Asynchronous Advantage Actor-Critic (A3C) algorithm to solve the Kung Fu Master game, a classic arcade game that provides a challenging environment for reinforcement learning. The code is implemented in Python using the Gymnasium library for the environment and PyTorch for building the neural network.
 
 ## Key Features
